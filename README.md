@@ -10,9 +10,4 @@ I have experience with Java, C++, a little with Python, and am currently learnin
 [Meme :)](https://ahseeit.com//king-include/uploads/2018/11/5a8980da43d3a-4455341217.jpeg)
 
 Email: posttr@mail.gvsu.edu
-<div class="banner" style="padding:15px; text-align:center;">
-<div class="banner-content">
-<h1>index.html</h1>
-<a href="https://abovelogic.github.io/CIS350-HW-2//index.html" class="btn btn-primary">Click</a>
-</div>
-</div>
+
